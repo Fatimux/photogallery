@@ -78,7 +78,7 @@ nav{
    padding: 5px auto;
 }
 nav ul{
-    margin:5px;
+    margin:5px;text-align: center;
  }
  nav li{
     display: inline-block;
@@ -88,4 +88,19 @@ nav ul{
  nav a{
     color: grey;
  }
+ img{
+    width:500px ;
+    height: auto;
+ }
+ h2{
+  display: flex;
+  padding-bottom: 5px;
+ figure{
+   display: flex;
+   flex-basis: auto;
+   justify-content: center;
+
+ 
+ }
+ 
     
