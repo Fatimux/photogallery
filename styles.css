@@ -88,19 +88,17 @@ nav ul{
  nav a{
     color: grey;
  }
- img{
+ #img{
     width:500px ;
     height: auto;
+ 
+    
  }
  h2{
   display: flex;
   padding-bottom: 5px;
- figure{
-   display: flex;
-   flex-basis: auto;
-   justify-content: center;
-
+}
  
- }
+ 
  
     
