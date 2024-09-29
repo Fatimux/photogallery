@@ -83,5 +83,9 @@ nav ul{
  nav li{
     display: inline-block;
     padding:2px;
+    font-size:18px;
+ }
+ nav a{
+    color: grey;
  }
     
